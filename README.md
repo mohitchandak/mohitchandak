@@ -11,6 +11,6 @@
 - 📫 How to reach me: mohitchandak100@gmail.com
 
 <p align="center" float="right">
-    <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=mohitchandak&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=mohitchandak&count_private=false&show_icons=true&theme=tokyonight" >
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=mohitchandak&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=mohitchandak&count_private=false&show_icons=true&theme=tokyonight" >
 </p>
