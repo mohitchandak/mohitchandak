@@ -22,4 +22,5 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=mohitchandak&count_private=false&show_icons=true&theme=tokyonight" >
 </p>
     
- ![](https://visitor-badge.glitch.me/badge?page_id=mohitchandak.mohitchandak&style=flat-square&color=0088cc)
+ ![](https://visitor-badge.glitch.me/badge?page_id=mohitchandak.mohitchandak&style=flat-square&color=0088cc)         <img src="https://img.shields.io/badge/Made%20With%20❤️%20By-Mohit-purple"></a></p>
+
