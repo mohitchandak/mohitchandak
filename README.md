@@ -5,7 +5,7 @@
 
 <h3 align="center">https://mohitchandak.carrd.co</h3>
     
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
+<!--  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" /> -->
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
